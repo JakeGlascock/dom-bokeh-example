@@ -1,0 +1,35 @@
+{
+  "name": "dom-bokeh-example",
+  "version": "1.0.0",
+  "description": "This showcases the dom-bokeh npm package.",
+  "main": "index.js",
+  "dependencies": {
+    "dom-bokeh": "^0.1.0",
+    "next": "^9.3.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "swr": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "test": "test",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeGlascock/dom-bokeh-example.git"
+  },
+  "keywords": [
+    "bokeh",
+    "focus",
+    "example"
+  ],
+  "author": "Jake Glascock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeGlascock/dom-bokeh-example/issues"
+  },
+  "homepage": "https://github.com/JakeGlascock/dom-bokeh-example#readme"
+}
