@@ -4,18 +4,8 @@
   "description": "This showcases the dom-bokeh npm package.",
   "main": "index.js",
   "dependencies": {
-    "dom-bokeh": "^0.1.0",
-    "next": "^9.3.5",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "swr": "^0.2.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "dev": "next",
-    "build": "next build",
-    "test": "test",
-    "start": "next start"
+    "dom-bokeh": "^0.1.1",
+    "webpack": "^4.43.0"
   },
   "repository": {
     "type": "git",
